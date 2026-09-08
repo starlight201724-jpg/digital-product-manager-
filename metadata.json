@@ -1,0 +1,6 @@
+{
+  "name": "Digital Product Manager",
+  "description": "A feminine luxury digital product management studio to create products, generate descriptions, marketing captions, high-resolution visuals, and consult with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
