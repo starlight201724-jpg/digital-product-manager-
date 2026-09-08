@@ -1,0 +1,1 @@
+"Build me a premium digital product management app. I want a dashboard where I can create products, generate product descriptions with Gemini, organize products by category, set prices, and generate marketing captions. Use a feminine luxury design with ivory, soft beige and warm gold. Make it responsive for mobile and desktop."
